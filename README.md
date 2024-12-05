@@ -8,9 +8,10 @@ Health Articles: Access articles on diseases, treatments, and general health tip
 About Us: Provides detailed information about the Healthline platform.
 
 🙆🏻‍♀️My Contributions
-Design:
+
+- Design:
 Created the user interface design for the platform using Figma, focusing on user-friendly layouts and aesthetics.
-Coding:
+- Coding:
 Assisted in coding the About Us page, ensuring that the content and design align with the project's objectives.
 
 💻Technology Stack
